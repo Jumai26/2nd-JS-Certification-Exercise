@@ -1,1 +1,1 @@
-This is the secong compulsory certification test from freeCodeCamp to claim the Jacascript Certificate. 
+This is my attempt on the second compulsory certification test from freeCodeCamp to claim the Jacascript Certificate. 
